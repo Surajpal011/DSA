@@ -8,11 +8,13 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/Surajpal011/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Surajpal011/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Surajpal011/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Surajpal011/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surajpal011/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surajpal011/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Surajpal011/DSA/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Surajpal011/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surajpal011/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
